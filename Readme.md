@@ -100,7 +100,7 @@ The model follows a clean **star schema design** to optimize Power BI performanc
 
 ---
 
-## 🛠 SQL Transformations (Generic Examples)
+## 🛠 SQL Transformations 
 
 ### 1️⃣ Normalize Raw Telemetry into Fact Table
 
@@ -208,8 +208,7 @@ rather than calendar time.
 
 ---
 
-## 📐 DAX Measures (Generic)
-
+## 📐 DAX Measures 
 ```DAX
 Total Starters :=
 CALCULATE(
